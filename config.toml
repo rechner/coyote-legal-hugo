@@ -1,0 +1,12 @@
+baseURL = "http://coyote.legal/"
+languageCode = "en-us"
+title = "Odysseus Rex"
+theme = "ananke"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Coyote at Law"
+  twitter=""
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  background_color_class = "bg-black"
